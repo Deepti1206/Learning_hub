@@ -18,12 +18,12 @@ git pull    #please make sure that you are in a correct repo on you local PC
 git branch "name of the branch" #this will create new branch on git repo in addition to main
 git branch  #provide the list of branches
 git checkout "name of the created branch"     #this will switch to the mentioned branch
-git status   # will tell you modeified files
+git status   # will tell you modified files
 # there are two option: git add .   # will add all files
 # git add <path name>      #you will get path using "git status"
 git status
 git commit -m "<your message>"
-git push --set-upstream orign <your branch name"
+git push --set-upstream origin <your branch name"
 
 
 
