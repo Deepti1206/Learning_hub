@@ -1,0 +1,5 @@
+This SQL practice is referred from https://github.com/mrinal1704/SQL-Leetcode-Challenge/blob/master/Medium/
+
+
+
+
